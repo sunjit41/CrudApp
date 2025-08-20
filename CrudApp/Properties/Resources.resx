@@ -118,12 +118,17 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+<<<<<<< HEAD
   <data name="CRUD" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\CRUD.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
     <comment>Crud Logo</comment>
   </data>
   <data name="CRUD2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\CRUD2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+=======
+  <data name="Crud" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Crud.ico;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+>>>>>>> f2d132ea6148387ff0b99fde0f24b55593497719
   </data>
   <data name="DatabaseConnectionString" xml:space="preserve">
     <value>Provider=Microsoft.ACE.OLEDB.12.0;Data Source=cruddb.accdb;Persist Security Info=False;</value>

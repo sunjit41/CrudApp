@@ -93,8 +93,11 @@
             LabelID2 = new Label();
             ButtonDelete = new Button();
             label4 = new Label();
+<<<<<<< HEAD
             pictureBox1 = new PictureBox();
             label2 = new Label();
+=======
+>>>>>>> f2d132ea6148387ff0b99fde0f24b55593497719
             PanelCreate.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)errorProvider1).BeginInit();
             tabControl1.SuspendLayout();
@@ -105,7 +108,10 @@
             panel2.SuspendLayout();
             tabPage4.SuspendLayout();
             panel3.SuspendLayout();
+<<<<<<< HEAD
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
+=======
+>>>>>>> f2d132ea6148387ff0b99fde0f24b55593497719
             SuspendLayout();
             // 
             // ButtonC
@@ -183,7 +189,11 @@
             PanelCreate.Controls.Add(LabelName);
             PanelCreate.Location = new Point(16, 16);
             PanelCreate.Name = "PanelCreate";
+<<<<<<< HEAD
             PanelCreate.Size = new Size(762, 460);
+=======
+            PanelCreate.Size = new Size(762, 456);
+>>>>>>> f2d132ea6148387ff0b99fde0f24b55593497719
             PanelCreate.TabIndex = 5;
             // 
             // LabelCreate
@@ -337,7 +347,11 @@
             panel1.Controls.Add(ButtonRead);
             panel1.Location = new Point(16, 16);
             panel1.Name = "panel1";
+<<<<<<< HEAD
             panel1.Size = new Size(762, 460);
+=======
+            panel1.Size = new Size(762, 453);
+>>>>>>> f2d132ea6148387ff0b99fde0f24b55593497719
             panel1.TabIndex = 6;
             // 
             // ListDetails
@@ -350,7 +364,11 @@
             ListDetails.Location = new Point(9, 122);
             ListDetails.MultiSelect = false;
             ListDetails.Name = "ListDetails";
+<<<<<<< HEAD
             ListDetails.Size = new Size(743, 326);
+=======
+            ListDetails.Size = new Size(743, 319);
+>>>>>>> f2d132ea6148387ff0b99fde0f24b55593497719
             ListDetails.TabIndex = 11;
             ListDetails.UseCompatibleStateImageBehavior = false;
             ListDetails.View = View.Details;
@@ -435,7 +453,11 @@
             panel2.Controls.Add(ButtonUpdate);
             panel2.Location = new Point(16, 16);
             panel2.Name = "panel2";
+<<<<<<< HEAD
             panel2.Size = new Size(762, 460);
+=======
+            panel2.Size = new Size(762, 453);
+>>>>>>> f2d132ea6148387ff0b99fde0f24b55593497719
             panel2.TabIndex = 7;
             // 
             // TextContact2
@@ -623,7 +645,11 @@
             panel3.Controls.Add(label4);
             panel3.Location = new Point(16, 16);
             panel3.Name = "panel3";
+<<<<<<< HEAD
             panel3.Size = new Size(762, 460);
+=======
+            panel3.Size = new Size(762, 453);
+>>>>>>> f2d132ea6148387ff0b99fde0f24b55593497719
             panel3.TabIndex = 7;
             // 
             // TextLicensed
@@ -787,6 +813,7 @@
             label4.Text = "D = DELETE";
             label4.TextAlign = ContentAlignment.MiddleLeft;
             // 
+<<<<<<< HEAD
             // pictureBox1
             // 
             pictureBox1.Anchor = AnchorStyles.Bottom | AnchorStyles.Left;
@@ -808,14 +835,19 @@
             label2.TabIndex = 8;
             label2.Text = "Requires:- Microsoft Access Database Engine 64-Bit ";
             // 
+=======
+>>>>>>> f2d132ea6148387ff0b99fde0f24b55593497719
             // CRUDForm
             // 
             AutoScaleDimensions = new SizeF(9F, 18F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.FromArgb(224, 224, 224);
             ClientSize = new Size(1008, 681);
+<<<<<<< HEAD
             Controls.Add(label2);
             Controls.Add(pictureBox1);
+=======
+>>>>>>> f2d132ea6148387ff0b99fde0f24b55593497719
             Controls.Add(tabControl1);
             Controls.Add(ButtonD);
             Controls.Add(ButtonU);
@@ -843,9 +875,13 @@
             tabPage4.ResumeLayout(false);
             panel3.ResumeLayout(false);
             panel3.PerformLayout();
+<<<<<<< HEAD
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
             ResumeLayout(false);
             PerformLayout();
+=======
+            ResumeLayout(false);
+>>>>>>> f2d132ea6148387ff0b99fde0f24b55593497719
         }
 
         #endregion
@@ -913,7 +949,10 @@
         private Button ButtonDelete;
         private TextBox TextLicensed;
         private TextBox TextDOB;
+<<<<<<< HEAD
         private PictureBox pictureBox1;
         private Label label2;
+=======
+>>>>>>> f2d132ea6148387ff0b99fde0f24b55593497719
     }
 }

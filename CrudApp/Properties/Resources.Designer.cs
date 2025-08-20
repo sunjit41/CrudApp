@@ -61,6 +61,7 @@ namespace CrudApp.Properties {
         }
         
         /// <summary>
+<<<<<<< HEAD
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         internal static System.Drawing.Bitmap CRUD {
@@ -77,6 +78,14 @@ namespace CrudApp.Properties {
             get {
                 object obj = ResourceManager.GetObject("CRUD2", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
+=======
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        internal static byte[] Crud {
+            get {
+                object obj = ResourceManager.GetObject("Crud", resourceCulture);
+                return ((byte[])(obj));
+>>>>>>> f2d132ea6148387ff0b99fde0f24b55593497719
             }
         }
         
